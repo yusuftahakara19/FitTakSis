@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Yoneticiler>
+  <Yonetici>
+    <adSoyad>Yusuf Taha Kara</adSoyad>
+    <kullaniciAdi>yusuftahakara</kullaniciAdi>
+    <sifre>yusuf123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Furkan Bingöl</adSoyad>
+    <kullaniciAdi>furkanbingol</kullaniciAdi>
+    <sifre>furkan123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Yusuf Kıran</adSoyad>
+    <kullaniciAdi>yusufkıran</kullaniciAdi>
+    <sifre>yusuf123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Tuğçe Susam</adSoyad>
+    <kullaniciAdi>tugcesusam</kullaniciAdi>
+    <sifre>tugce123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Kerim Sadıkoğlu</adSoyad>
+    <kullaniciAdi>kerimsadikoglu</kullaniciAdi>
+    <sifre>kerim123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Furkan Aslan</adSoyad>
+    <kullaniciAdi>furkanaslan</kullaniciAdi>
+    <sifre>furkan123</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>Ömer</adSoyad>
+    <kullaniciAdi>Çetin</kullaniciAdi>
+    <sifre>omer654</sifre>
+  </Yonetici>
+  <Yonetici>
+    <adSoyad>admin</adSoyad>
+    <kullaniciAdi>admin</kullaniciAdi>
+    <sifre>admin</sifre>
+  </Yonetici>
+</Yoneticiler>

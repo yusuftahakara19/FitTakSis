@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Uyeler>
+  <Uye>
+    <adSoyad>Mehmet Oztürk</adSoyad>
+    <kullaniciAdi>mehmetozturk</kullaniciAdi>
+    <sifre>mehmet123</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.06.2022</bitisTarihi>
+    <kilo>56</kilo>
+    <boy>196</boy>
+    <antreman> 05.12.2022 (195 Kcal) -  05.20.2022 (195 Kcal) - </antreman>
+    <yas>29</yas>
+    <telefon>(552) 314-5896</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Yusuf Kara</adSoyad>
+    <kullaniciAdi>yusufkara</kullaniciAdi>
+    <sifre>yusuf321</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.07.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>183</boy>
+    <antreman> 05.12.2022 (750 Kcal) -  05.12.2022 (750 Kcal) -  05.20.2022 (750 Kcal) -  05.22.2022 (750 Kcal) -  22.05.2022 (750 Kcal) - </antreman>
+    <yas>22</yas>
+    <telefon>(554) 385-5255</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Mustafa Polat</adSoyad>
+    <kullaniciAdi>mustafapolat</kullaniciAdi>
+    <sifre>kerim123</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.08.2022</bitisTarihi>
+    <kilo>65</kilo>
+    <boy>178</boy>
+    <antreman> 05.20.2022 (750 Kcal) - </antreman>
+    <yas>18</yas>
+    <telefon>(554) 215-2152</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Süleyman Bilen</adSoyad>
+    <kullaniciAdi>suleymanbilen</kullaniciAdi>
+    <sifre>suleyman789</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.09.2022</bitisTarihi>
+    <kilo>70</kilo>
+    <boy>170</boy>
+    <antreman></antreman>
+    <yas>19</yas>
+    <telefon>(554) 144-4411</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Mustafa Kılıç</adSoyad>
+    <kullaniciAdi>mustafakilic</kullaniciAdi>
+    <sifre>mustafa456</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.09.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>165</boy>
+    <antreman> 05.12.2022 (750 Kcal) - </antreman>
+    <yas>25</yas>
+    <telefon>(554) 141-5654</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>admin</adSoyad>
+    <kullaniciAdi>admin</kullaniciAdi>
+    <sifre>admin</sifre>
+    <baslangicTarihi>15.05.2022</baslangicTarihi>
+    <bitisTarihi>25.06.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>183</boy>
+    <antreman> 05.22.2022 (500 Kcal) - </antreman>
+    <yas>22</yas>
+    <telefon>(532) 785-7242</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Orta</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Fatma Özlem Acar</adSoyad>
+    <kullaniciAdi>fatmaozlemacar</kullaniciAdi>
+    <sifre>fatma123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.06.2022</bitisTarihi>
+    <kilo>65</kilo>
+    <boy>176</boy>
+    <antreman></antreman>
+    <yas>22</yas>
+    <telefon>(534) 785-7242</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Özde Acarkan</adSoyad>
+    <kullaniciAdi>ozdeacarkan</kullaniciAdi>
+    <sifre>ozde123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.08.2022</bitisTarihi>
+    <kilo>62</kilo>
+    <boy>166</boy>
+    <antreman></antreman>
+    <yas>32</yas>
+    <telefon>(544) 879-7242</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Orta</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Atahan Adanır</adSoyad>
+    <kullaniciAdi>atahanadanir</kullaniciAdi>
+    <sifre>atahan</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.08.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>167</boy>
+    <antreman></antreman>
+    <yas>32</yas>
+    <telefon>(534) 879-7225</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Hacı Mehmet Adıgüzel</adSoyad>
+    <kullaniciAdi>hacimehmetadiguzel</kullaniciAdi>
+    <sifre>haci123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.08.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>187</boy>
+    <antreman></antreman>
+    <yas>43</yas>
+    <telefon>(533) 879-7225</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Mesut Süre</adSoyad>
+    <kullaniciAdi>mesutsure</kullaniciAdi>
+    <sifre>mesut123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.12.2022</bitisTarihi>
+    <kilo>135</kilo>
+    <boy>205</boy>
+    <antreman></antreman>
+    <yas>43</yas>
+    <telefon>(523) 779-7225</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Kemal Ayça</adSoyad>
+    <kullaniciAdi>kemalayca</kullaniciAdi>
+    <sifre>kemal123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.12.2022</bitisTarihi>
+    <kilo>90</kilo>
+    <boy>175</boy>
+    <antreman></antreman>
+    <yas>39</yas>
+    <telefon>(543) 779-7444</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>İlker Gümüşoluk</adSoyad>
+    <kullaniciAdi>ilkergumusoluk</kullaniciAdi>
+    <sifre>ilkergumusoluk123</sifre>
+    <baslangicTarihi>22.05.2022</baslangicTarihi>
+    <bitisTarihi>25.10.2022</bitisTarihi>
+    <kilo>90</kilo>
+    <boy>180</boy>
+    <antreman></antreman>
+    <yas>39</yas>
+    <telefon>(547) 779-7444</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Orta</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Lemi Akarçay</adSoyad>
+    <kullaniciAdi>lemiakarcay</kullaniciAdi>
+    <sifre>lemi123</sifre>
+    <baslangicTarihi>22.05.2022</baslangicTarihi>
+    <bitisTarihi>22.10.2022</bitisTarihi>
+    <kilo>50</kilo>
+    <boy>172</boy>
+    <antreman></antreman>
+    <yas>22</yas>
+    <telefon>(543) 535-3553</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Ercüment Akarçay</adSoyad>
+    <kullaniciAdi>ercumentakarcay</kullaniciAdi>
+    <sifre>ercu123</sifre>
+    <baslangicTarihi>22.05.2022</baslangicTarihi>
+    <bitisTarihi>22.10.2022</bitisTarihi>
+    <kilo>78</kilo>
+    <boy>178</boy>
+    <antreman></antreman>
+    <yas>23</yas>
+    <telefon>(545) 535-3553</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Orta</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>İclal Akkoyun</adSoyad>
+    <kullaniciAdi>iclal123</kullaniciAdi>
+    <sifre>parola123</sifre>
+    <baslangicTarihi>22.05.2022</baslangicTarihi>
+    <bitisTarihi>22.10.2022</bitisTarihi>
+    <kilo>78</kilo>
+    <boy>178</boy>
+    <antreman></antreman>
+    <yas>23</yas>
+    <telefon>(553) 535-5353</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Semina Akkoyun</adSoyad>
+    <kullaniciAdi>seminaakkoyun</kullaniciAdi>
+    <sifre>parola123</sifre>
+    <baslangicTarihi>22.05.2022</baslangicTarihi>
+    <bitisTarihi>22.10.2022</bitisTarihi>
+    <kilo>58</kilo>
+    <boy>145</boy>
+    <antreman></antreman>
+    <yas>17</yas>
+    <telefon>(553) 535-5353</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Elif Tuğçe Altaş</adSoyad>
+    <kullaniciAdi>eliftugcealtas</kullaniciAdi>
+    <sifre>parola123</sifre>
+    <baslangicTarihi>15.05.2022</baslangicTarihi>
+    <bitisTarihi>22.10.2022</bitisTarihi>
+    <kilo>56</kilo>
+    <boy>178</boy>
+    <antreman></antreman>
+    <yas>17</yas>
+    <telefon>(553) 546-4565</telefon>
+    <cinsiyet>Kadın</cinsiyet>
+    <seviye>Başlangıç</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Zeki Yiğithan Armutcu</adSoyad>
+    <kullaniciAdi>zekiyigithan</kullaniciAdi>
+    <sifre>zeki123</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.10.2022</bitisTarihi>
+    <kilo>79</kilo>
+    <boy>178</boy>
+    <antreman> 05.22.2022 (750 Kcal) - </antreman>
+    <yas>26</yas>
+    <telefon>(553) 456-4564</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Atahan Solak</adSoyad>
+    <kullaniciAdi>atahansolak</kullaniciAdi>
+    <sifre>atahan123</sifre>
+    <baslangicTarihi>25.05.2022</baslangicTarihi>
+    <bitisTarihi>25.08.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>175</boy>
+    <antreman></antreman>
+    <yas>32</yas>
+    <telefon>(534) 844-445</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>anonim</adSoyad>
+    <kullaniciAdi>anonim</kullaniciAdi>
+    <sifre>anonim</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.08.2022</bitisTarihi>
+    <kilo>75</kilo>
+    <boy>175</boy>
+    <antreman> 05.05.2022 (500 Kcal) -  07.05.2022 (500 Kcal) -  09.05.2022 (500 Kcal) -  13.05.2022 (500 Kcal) -  18.05.2022 (750 Kcal) -  20.05.2022 (750 Kcal) -  22.05.2022 (750 Kcal) - </antreman>
+    <yas>35</yas>
+    <telefon>(534) 254-5454</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+  <Uye>
+    <adSoyad>Nazif Kara</adSoyad>
+    <kullaniciAdi>nazifkara</kullaniciAdi>
+    <sifre>nazifkara</sifre>
+    <baslangicTarihi>12.05.2022</baslangicTarihi>
+    <bitisTarihi>12.08.2022</bitisTarihi>
+    <kilo>57</kilo>
+    <boy>175</boy>
+    <antreman></antreman>
+    <yas>35</yas>
+    <telefon>(534) 344-5354</telefon>
+    <cinsiyet>Erkek</cinsiyet>
+    <seviye>Gelişmiş</seviye>
+  </Uye>
+</Uyeler>
