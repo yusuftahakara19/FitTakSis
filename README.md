@@ -1,5 +1,18 @@
 # FitTakSis
 Fitness Tracking System
+Admin and user login
+
+Admin Panel Content
+-> Members (Save, Delete, Update Operations)
+-> Viewing Members' Login Times
+-> Fitness Shop
+
+Member Panel Content
+-> Exercise
+-> Calculate Fat Ratio
+-> Store
+-> Browse Past Workouts
+
 
 ![1](https://user-images.githubusercontent.com/119736588/232001984-f4379948-97fc-45a2-baeb-dfe3c1f2b35a.PNG)
 ![2](https://user-images.githubusercontent.com/119736588/232001987-327889bb-6d3c-4909-8cb4-122701fe72a5.PNG)
